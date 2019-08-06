@@ -1,0 +1,6 @@
+{
+    "restructuredtext.confPath": "",
+    "rfLanguageServer.libraries": [
+        "BuiltIn-3.0.4",
+    ]
+}
