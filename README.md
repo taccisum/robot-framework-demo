@@ -25,7 +25,7 @@ $ robot ./helloworld.robot
 ##### 1. Install dependent library
 
 ```bash
-$ pip install robotframework-selenium2library
+$ pip install --upgrade robotframework-seleniumlibrary
 ```
 
 ##### 2. Install browser driver
